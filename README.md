@@ -1,6 +1,6 @@
 # MovieBlitz: "Personalized Movies to the Perfection"
 ## Inroduction
-MovieBlitz is a Machine Learning and Sentiment Analysis website. It is a movie recommendation website and also displays critical as well as posittive comments for the respective movie.
+MovieBlitz is a Machine Learning and Sentiment Analysis website. It is a movie recommendation website and also displays critical as well as positive comments for the respective movie.
 
 
 ## Scrapping of Data
