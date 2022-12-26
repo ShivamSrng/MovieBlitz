@@ -52,7 +52,7 @@ Finally testing the reommendation system with some data:
 
 
 
-## Implementing thee Sentiment Analysis for comments
+## Implementing the Sentiment Analysis for comments
 As I already discussed that, it’s hard to work with textual data in context of Machine 
 Learning and Natural Language Processing, therefore it is necessary to vectorize the 
 comment, for which I used CountVectorizer.
