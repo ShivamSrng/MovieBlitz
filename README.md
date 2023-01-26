@@ -85,7 +85,9 @@ MovieBlitz gives special recommednation to all users under their profile section
 
 
 
-https://user-images.githubusercontent.com/67229090/209551243-14102865-587b-40cd-a1e4-2d3a0886aa1d.mp4
+
+https://user-images.githubusercontent.com/67229090/214779035-80202de2-6a38-49a2-9262-76e77fe69a54.mp4
+
 
 
 ## Detailed information about entire project
