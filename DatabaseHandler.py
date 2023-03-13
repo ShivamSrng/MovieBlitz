@@ -3,14 +3,14 @@ import csv
 from datetime import date
 
 firebaseConfig = {
-    'apiKey': "AIzaSyCYt5kWMhNCbNqKDYKJNQs15dIW6nXhcKI",
-    'authDomain': "movieblitz-43793.firebaseapp.com",
+    'apiKey': "",
+    'authDomain': "",
     'databaseURL': "https://movieblitz-43793-default-rtdb.firebaseio.com/",
     'projectId': "movieblitz-43793",
     'storageBucket': "movieblitz-43793.appspot.com",
-    'messagingSenderId': "1047629872011",
-    'appId': "1:1047629872011:web:fd79c2620b791d644e4d8e",
-    'measurementId': "G-BC5N8M5SK4"
+    'messagingSenderId': "",
+    'appId': "",
+    'measurementId': ""
 }
 
 firebase = pyrebase.initialize_app(firebaseConfig)
